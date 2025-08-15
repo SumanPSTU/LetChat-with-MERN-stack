@@ -5,7 +5,7 @@ import { RiArrowLeftLine, RiBardLine, RiChatAiLine, RiFile4Line, RiFolderUserLin
 const Navlink = () => {
   return (
     <section className='sticky lg:static top-0 flex items-center 
-      lg:items-start lg:justify-center h-[7vh] lg:h-[100vh] w-full px-3 lg:px-1 lg:w-[150px] py-10 lg:py-2 bg-[#01AA85]'>
+      lg:items-start lg:justify-center h-[7vh] lg:h-[100vh] w-full px-3 lg:px-1 lg:w-[100px] py-10 lg:py-2 bg-[#01AA85]'>
       
       <main className='flex lg:flex-col items-center lg:gap-10 justify-between w-full py-2 lg:px-0'>
 

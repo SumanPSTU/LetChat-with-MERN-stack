@@ -5,6 +5,7 @@ import login from './import.png';
 import lock from './lock.png';
 import adduser from './add-user.png';
 import communication from './communication.png'
+import chatbg from './whatsapp-bg.jpg'
 
 const assets = {
     man,
@@ -13,7 +14,8 @@ const assets = {
     login,
     lock,
     adduser,
-    communication
+    communication,
+    chatbg
 };
 
 export default assets;
